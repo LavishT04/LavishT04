@@ -1,4 +1,4 @@
-<--Info-->
+<!--Info-->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="223" class="">
     <defs>
@@ -134,4 +134,5 @@
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
-<--Info-->
+        
+<!--Info-->
