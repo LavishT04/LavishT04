@@ -83,3 +83,5 @@
 <img src="https://raw.githubusercontent.com/LavishT04/LavishT04/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Metrics](https://metrics.lecoq.io/?template=classic&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=America%2FToronto)
