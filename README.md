@@ -1,6 +1,6 @@
 
 
-<img src="https://i.imgur.com/dAAyDB3.gif" alt="Snake animation" width="830px" />
+<img src="https://i.imgur.com/dAAyDB3.gif" alt="Snake animation" width="835px" />
 
 
 
