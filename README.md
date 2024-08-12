@@ -4,8 +4,9 @@
 
 
 
-<h2 align="left">Hi 👋! My name is Lavish Tandon and I'm a Developer, from India. Currently living in Canada</h2>
+<h2 align="center">Hi 👋! My name is Lavish Tandon <br> I'm a Developer, from India <br> Currently living in Canada</h2>
 <img src="https://i.imgur.com/dAAyDB3.gif" alt="Snake animation" width="835px"/>
+
 ###
 
 <div align="center">
