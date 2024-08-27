@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 <h2 align="center">Hi 👋! My name is Lavish Tandon <br> I'm a Developer, from India <br> Currently working on "🪢Ikigai" an Operating System</h2>
 
 
