@@ -75,8 +75,8 @@
 ###
 
 <div align="left">
-  <a herf="https://www.instagram.com/lavish.tandon/#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  /></a>
-  <a herf="www.linkedin.com/in/lavish-tandon-6726b7261"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /></a>
+  <a href="https://instagram.com/lavish.tandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavish.tandon" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lavish-tandon-6726b7261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavish-tandon-6726b7261" height="30" width="40" /></a>
 </div>
 
 ###
