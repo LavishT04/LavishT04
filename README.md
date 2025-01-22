@@ -9,12 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavishT04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LavishT04&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
   <img src="https://i.imgur.com/dAAyDB3.gif" alt="Snake animation" width="835px" height="225" />
-  
+  <img src="https://raw.githubusercontent.com/LavishT04/LavishT04/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ###
 
-<img align="right" height="162" src="https://camo.githubusercontent.com/db9e0978c0f6d227ea44ec915116a4c86807c144c94d5784a3a38c46a4e08768/68747470733a2f2f692e726564642e69742f303378626867663177377735312e676966"  />
+<img align="right" height="162" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-347.gif"  />
 
 ###
 
